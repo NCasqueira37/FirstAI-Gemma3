@@ -1,0 +1,2 @@
+# This is my first time experimenting with AI
+## I used ollama and used the Gemma3 Model
